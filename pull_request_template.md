@@ -1,7 +1,7 @@
 <!-- This template is our working agreement in miniature: five things, in order.
      Small change? Five lines are fine — length is not the goal. The goal is a
      reviewer who never has to reconstruct the problem from the diff.
-     Full rules + AI starter prompt: <wiki link to "How we work">            -->
+     Full rules + AI starter prompt: [How we work](https://github.com/syslabcom/scrum/wiki/How-we-work-—-pull-requests,-reviews,-and-AI)           -->
 
 ## Motivation
 
